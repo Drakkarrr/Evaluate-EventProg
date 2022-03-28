@@ -1,0 +1,17 @@
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\bin\Debug\net6.0-windows\Evaluate.exe
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\bin\Debug\net6.0-windows\Evaluate.deps.json
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\bin\Debug\net6.0-windows\Evaluate.runtimeconfig.json
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\bin\Debug\net6.0-windows\Evaluate.dll
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\bin\Debug\net6.0-windows\Evaluate.pdb
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\obj\Debug\net6.0-windows\Evaluate.csproj.AssemblyReference.cache
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\obj\Debug\net6.0-windows\Evaluate.Form1.resources
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\obj\Debug\net6.0-windows\Evaluate.csproj.GenerateResource.cache
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\obj\Debug\net6.0-windows\Evaluate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\obj\Debug\net6.0-windows\Evaluate.AssemblyInfoInputs.cache
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\obj\Debug\net6.0-windows\Evaluate.AssemblyInfo.cs
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\obj\Debug\net6.0-windows\Evaluate.csproj.CoreCompileInputs.cache
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\obj\Debug\net6.0-windows\Evaluate.dll
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\obj\Debug\net6.0-windows\refint\Evaluate.dll
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\obj\Debug\net6.0-windows\Evaluate.pdb
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\obj\Debug\net6.0-windows\Evaluate.genruntimeconfig.cache
+C:\Users\GAMERZ\Desktop\Resource-O\Evaluate\Evaluate\obj\Debug\net6.0-windows\ref\Evaluate.dll
